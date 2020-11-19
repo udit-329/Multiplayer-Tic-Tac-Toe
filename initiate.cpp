@@ -27,5 +27,7 @@ int main()
     ofile.flush();
     ofile.close();
     
+    getchar();
+    
     return 0;
 }
